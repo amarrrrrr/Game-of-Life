@@ -11,7 +11,7 @@ It is Turing Complete, So you can do anything with it, if you can figure out the
 initial populaiton. 
 
 Matlab is good language for this game development. Because, it literally exists on 2D board:
-it reduces the work of building board and with Sparse Matrix, time and space to be used gets
+it cuts the work of building board and with Sparse Matrix, time and space to be used gets
 reduced a hella ton.
 
 Development in the future:
